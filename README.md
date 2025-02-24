@@ -42,5 +42,5 @@ classDiagram
 ```
 
 
-# Esse Projeto esta com falha na conexão com o Railwai/Postgree usando intelij, funcinou usando eclipse.
+ Esse Projeto esta com falha na conexão com o Railwai/Postgree usando intelij, funcinou usando eclipse.
 
